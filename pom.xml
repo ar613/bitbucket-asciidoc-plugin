@@ -14,11 +14,11 @@
     <packaging>atlassian-plugin</packaging>
 
     <properties>
-        <bitbucket.version>5.5.0</bitbucket.version>
+        <bitbucket.version>6.0.1</bitbucket.version>
         <bitbucket.data.version>${bitbucket.version}</bitbucket.data.version>
-        <amps.version>6.3.0</amps.version>
+        <amps.version>8.0.0</amps.version>
         <plugin.testrunner.version>1.2.0</plugin.testrunner.version>
-        <maven-compiler-plugin>3.3</maven-compiler-plugin>
+        <maven-compiler-plugin>3.8.0</maven-compiler-plugin>
     </properties>
 
     <licenses>
